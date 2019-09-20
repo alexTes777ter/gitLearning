@@ -54,3 +54,6 @@
 отправка (pull)
 
 получение (push)
+
+master line 1
+master line 2
