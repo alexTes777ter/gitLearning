@@ -2,7 +2,8 @@
 	AlexHedgehog
 	alexQA27
 
-Установка на Linux
+=======
+﻿Установка на Linux
 	sudo apt-get install git
 
 
@@ -126,4 +127,12 @@
 
 получение (pull)
 
+
 add master 1
+=======
+получение (push)
+
+
+test develop 1
+test develop 2
+
