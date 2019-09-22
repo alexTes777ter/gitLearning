@@ -1,4 +1,4 @@
-GitHub
+﻿GitHub
 	AlexHedgehog
 	alexQA27
 
@@ -126,3 +126,4 @@ GitHub
 
 получение (pull)
 
+add master 1
