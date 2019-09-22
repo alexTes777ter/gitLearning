@@ -1,4 +1,4 @@
-Установка на Linux
+﻿Установка на Linux
 	sudo apt-get install git
 
 
@@ -54,3 +54,7 @@
 отправка (pull)
 
 получение (push)
+
+
+test develop 1
+test develop 2
